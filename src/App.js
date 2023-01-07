@@ -1,5 +1,11 @@
+import { Video } from "./Video";
+
 function App() {
-  return <div>New App</div>;
+  return (
+    <div>
+      <Video />
+    </div>
+  );
 }
 
 export default App;
